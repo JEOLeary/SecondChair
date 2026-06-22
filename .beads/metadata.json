@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "SecondChair",
+  "project_id": "62f22455-0742-4c2b-be0b-6f97b6dc56a6"
+}
